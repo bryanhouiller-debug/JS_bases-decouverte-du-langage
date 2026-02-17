@@ -43,4 +43,4 @@ if (
     console.log(weekMessage);
 }
 
-console.log('exo-2');
+console.log('exo-2'); 

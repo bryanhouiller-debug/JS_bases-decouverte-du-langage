@@ -38,3 +38,4 @@ Votre programme est réalisé, mais il est difficile de le tester pour savoir si
 1. Si **isTesting** est `true`, alors la variable correspondant au jour de la semaine n'est plus reliée au jour actuel, mais à un jour fictif demandé à l'utilisateur via la commande `prompt()`. Il en va de même pour la variable contenant l'heure.
 
 2. Si **isTesting** est `false`, le programme se lance avec le jour et l'heure du moment.
+ 
