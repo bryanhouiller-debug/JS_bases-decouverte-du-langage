@@ -6,7 +6,7 @@ const myDate = new Date();
 
 // 🔹 Messages
 const weekMessage = "Pas encore le weekend...";
-const weekendMessage = "C'est le weekend ! 🎉";
+const weekendMessage = "C'est le weekend ! ";
 
 // 🔹 Variables jour et heure
 let day;
