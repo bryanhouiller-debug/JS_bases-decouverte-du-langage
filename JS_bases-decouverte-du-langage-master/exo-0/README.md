@@ -7,7 +7,7 @@ Avant d'écrire du code JavaScript, il est important de savoir le lire, c'est le
 L'objectif est de commenter **chaque ligne de code** du fichier `index.html` avec une phrase en français qui explique ce qu'elle fait.
 
 Par exemple :
-
+  
 ```js
 var a = 38; // je déclare une variable nommée a qui prend pour valeur l'entier 38.
 ```
